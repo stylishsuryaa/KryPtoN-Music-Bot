@@ -10,9 +10,9 @@ if HEROKU:
 
 # NOTE Fill this if you are not deploying on heroku.
 if not HEROKU:
-    API_ID = 123456
-    API_HASH = "asdnsfkj1412kjh4"
-    SUDO_CHAT_ID = "12304"
+    API_ID = 7086582
+    API_HASH = "5f87de0805ef1e47680954eb70aa43bd"
+    SUDO_CHAT_ID = "1921122662"
 
 
 # don't make changes below this line
